@@ -10,4 +10,4 @@ only list some topic in fact that will have mroe than the topic that I use in th
   5. -[ ] List
 
 ## Leetcode practice
-also will use leetcode for practice inclode my own comment
+Use leetcode to help me practice include my own comment
