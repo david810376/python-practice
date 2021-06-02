@@ -12,3 +12,8 @@ This is a practice by myself to help me know more about python and the function 
 6. -[ ] Linked List
 
 will add more topic in the future
+
+
+## Leetcode practice
+Use leetcode to help me practice include my own comment
+
