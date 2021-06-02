@@ -8,6 +8,3 @@ only list some topic in fact that will have mroe than the topic that I use in th
   3. -[ ] Remove
   4. -[ ] Change
   5. -[ ] List
-
-## Leetcode practice
-Use leetcode to help me practice include my own comment
